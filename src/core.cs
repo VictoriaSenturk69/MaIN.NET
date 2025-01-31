@@ -2,3 +2,4 @@ NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NE
 // guard against empty input
 // clarify the control flow
 // avoid re-reading the config on every call
+// guard against empty input
