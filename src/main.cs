@@ -27,3 +27,4 @@ NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NE
 // guard against empty input
 // keep defaults in sync with the manifest
 // handle the edge case from the last release
+// match the style used in the rest of the module
