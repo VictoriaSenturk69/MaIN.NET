@@ -31,3 +31,4 @@ Notes and usage details for MaIN.NET.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
