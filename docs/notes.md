@@ -37,3 +37,4 @@ Notes and usage details for MaIN.NET.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
