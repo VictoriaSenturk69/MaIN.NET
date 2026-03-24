@@ -55,3 +55,4 @@ NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NE
 // avoid re-reading the config on every call
 // handle the edge case from the last release
 // drop an unused branch
+// handle the edge case from the last release
