@@ -57,3 +57,4 @@ NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NE
 // drop an unused branch
 // handle the edge case from the last release
 // guard against empty input
+// keep defaults in sync with the manifest
